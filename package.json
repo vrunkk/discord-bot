@@ -1,0 +1,29 @@
+{
+  "name": "benis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "ascii-table": "0.0.9",
+    "canvas": "^2.6.1",
+    "cleverbot-free": "^1.0.5",
+    "common-tags": "^1.8.0",
+    "discord.js": "^12.4.1",
+    "djs-eval": "^1.2.14",
+    "dotenv": "^10.0.0",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "imageapi.js": "^1.0.5",
+    "ms": "^2.1.2",
+    "opusscript": "0.0.7",
+    "pm2": "^4.5.0",
+    "ytdl-core": "^3.1.2"
+  }
+}
